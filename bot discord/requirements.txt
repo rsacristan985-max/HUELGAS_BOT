@@ -1,5 +1,0 @@
-discord.py
-aiohttp
-feedparser
-beautifulsoup4
-python-dotenv
